@@ -2,6 +2,8 @@
 # www.solanolabs.com
 
 # Language/tools versions
+java:
+  java_version: 'java-8-openjdk'
 postgres:
   version: '9.4'
 phantomjs:
