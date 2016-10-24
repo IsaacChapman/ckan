@@ -3,7 +3,7 @@
 
 # Language/tools versions
 java:
-  java_version: 'java-8-openjdk'
+  java_version: 'java-8-oracle'
 postgres:
   version: '9.4'
 phantomjs:
